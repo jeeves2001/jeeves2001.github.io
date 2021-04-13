@@ -1,6 +1,8 @@
+---
 layout: post
 title: Some articles are just so short that we've to make the footer stick
 categories: Miscellaneous
+---
 
 Been playing with Docker on a spare Pi for a while, currently it runs Portainer, PiHole and a NGINX web server hosting a basic HTML page with links to all the services running on the network (so I don't have to remember all their IP addresses!). 
 

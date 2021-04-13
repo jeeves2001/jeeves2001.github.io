@@ -12,7 +12,7 @@ Even though the setup I have is already working, there are some issues with is. 
 
 This is a list of the bits I think I'll need to get fully set up. I have a normal installation of NodeRed running on another Pi which I plan to migrate to the container once this is set up and running, and I have a dedicated Pi running a SSH gateway, which I plan to replace with the PiVPN. 
 
-Containers:
+Containers: 
 [x] Portainer 
 [x] PiHole
 [x] NGINX (Web)

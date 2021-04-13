@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Some articles are just so short that we've to make the footer stick
-categories: Miscellaneous
+title: DockerPi
+categories: RaspberryPi, Docker
 ---
 
 Been playing with Docker on a spare Pi for a while, currently it runs Portainer, PiHole and a NGINX web server hosting a basic HTML page with links to all the services running on the network (so I don't have to remember all their IP addresses!). 
@@ -13,7 +13,7 @@ Even though the setup I have is already working, there are some issues with is. 
 This is a list of the bits I think I'll need to get fully set up. I have a normal installation of NodeRed running on another Pi which I plan to migrate to the container once this is set up and running, and I have a dedicated Pi running a SSH gateway, which I plan to replace with the PiVPN. 
 
 Containers:
-[x] Portainer 
+[x] Portainer
 [x] PiHole
 [x] NGINX (Web)
 [x] NodeRed 

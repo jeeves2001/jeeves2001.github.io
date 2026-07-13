@@ -74,11 +74,11 @@ The guiding principle was simple.
 
 ### Screen Time
 #### Before Monk Mode
-![Before](https://jeeves2001.github.io/images/Screenshot_20260701_120238_Digital Wellbeing.jpg) 
+![Before](https://jeeves2001.github.io/images/Screenshot_20260701_120238_Digital_Wellbeing.jpg) 
 
 
 #### During Monk Mode
-![Monk Mode](https://jeeves2001.github.io/images/Screenshot_20260701_120132_Digital Wellbeing.jpg) 
+![Monk Mode](https://jeeves2001.github.io/images/Screenshot_20260701_120132_Digital_Wellbeing.jpg) 
 
 ---
 

@@ -74,11 +74,11 @@ The guiding principle was simple.
 
 ### Screen Time
 #### Before Monk Mode
-![Before](images/Screenshot_20260701_120238_Digital Wellbeing.jpg) 
+![Before](https://jeeves2001.github.io/images/Screenshot_20260701_120238_Digital Wellbeing.jpg) 
 
 
 #### During Monk Mode
-![Monk Mode](images/Screenshot_20260701_120132_Digital Wellbeing.jpg) 
+![Monk Mode](https://jeeves2001.github.io/images/Screenshot_20260701_120132_Digital Wellbeing.jpg) 
 
 ---
 
@@ -130,7 +130,7 @@ My current favourite is what I've started calling the **"1 & 1"**:
 
 Simple, delicious, and a great way to enjoy the same beans in two completely different ways.
 
-![Coffee](images/20260703_092445.jpg) 
+![Coffee](https://jeeves2001.github.io/images/20260703_092445.jpg) 
 
 
 ---

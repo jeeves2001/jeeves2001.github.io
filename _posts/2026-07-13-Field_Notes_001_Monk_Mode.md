@@ -13,7 +13,7 @@ excerpt: "The first entry in my Healthspan Field Notes. One week of Monk Mode re
 
 *A year of evidence-based self-experimentation in pursuit of better healthspan.*
 
-![Monk Mode Daily Routine](images/file_00000000f77c7246ad8dc4ad4d74f859.png)
+![Monk Mode Daily Routine](https://jeeves2001.github.io/images/file_00000000f77c7246ad8dc4ad4d74f859.png)
 
 ---
 
